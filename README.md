@@ -21,8 +21,7 @@ To write a program to implement the Decision Tree Classifier Model for Predictin
 Program to implement the Decision Tree Classifier Model for Predicting Employee Churn.
 Developed by: MEENA.S
 RegisterNumber:  212221240028
-*/
-```
+
 import pandas as pd
 data = pd.read_csv("Employee.csv")
 
@@ -56,7 +55,8 @@ y_pred = dt.predict(x_test)
 from sklearn import metrics
 accuracy = metrics.accuracy_score(y_test,y_pred)
 accuracy
-
+*/
+```
 dt.predict([[0.5,0.8,9,260,6,0,1,2]])
 ## Output:
 ## DATA.HEAD():
