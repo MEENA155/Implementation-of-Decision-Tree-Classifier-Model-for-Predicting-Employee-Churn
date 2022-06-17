@@ -59,21 +59,21 @@ accuracy
 
 dt.predict([[0.5,0.8,9,260,6,0,1,2]])
 ## Output:
-DATA.HEAD():
+## DATA.HEAD():
 ![image](https://user-images.githubusercontent.com/94677128/173615044-db029c2c-15be-4e9d-82f3-f9625b9a6a0b.png)
-DATA.INFO():
+## DATA.INFO():
 ![image](https://user-images.githubusercontent.com/94677128/173615081-aeb25338-23f7-4ea8-9dc4-e91b1f95426d.png)
-DATA.ISNULL().SUM():
+## DATA.ISNULL().SUM():
 ![image](https://user-images.githubusercontent.com/94677128/173615138-5a794906-6d52-40d5-ad65-948a3ea1ec14.png)
-DATA.VALUE_COUNTS:
+## DATA.VALUE_COUNTS:
 ![image](https://user-images.githubusercontent.com/94677128/173615185-979bcd9b-ea66-4f72-986e-d19fe59ed644.png)
-DATA.HEAD()USING LABLE ENCODER:
+## DATA.HEAD()USING LABLE ENCODER:
 ![image](https://user-images.githubusercontent.com/94677128/173615218-eb32e912-c21b-480c-8119-c35f44a0f972.png)
-[X.HEAD():
+## [X.HEAD():
 ![image](https://user-images.githubusercontent.com/94677128/173615246-6076f6b9-a1d3-4df2-98ad-35adc2b40b73.png)
-ACCURACY:
+## ACCURACY:
 ![image](https://user-images.githubusercontent.com/94677128/173615276-d26af1a8-7228-4d4b-b68a-41e9d0735d9a.png)
-PREDICTION:
+## PREDICTION:
 ![image](https://user-images.githubusercontent.com/94677128/173616198-c1a7978f-f447-405c-b5ad-422e214e853d.png)
 
 
